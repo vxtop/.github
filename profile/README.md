@@ -12,4 +12,9 @@ Carpetas y programas como cubos · actividad de archivos en vivo coloreada segú
 
 <p align="center"><img src="https://raw.githubusercontent.com/vxtop/vxtop.github.io/main/assets/hero.png" alt="vxtop" width="820"></p>
 
-<p align="center"><sub>Local y privado · solo mira, nunca toca · Apache-2.0 © virtuanista</sub></p>
+<table align="center"><tr>
+<td width="50%" valign="top"><b><a href="https://vxtop.github.io">vxtop</a></b><br>Observa tu equipo. Solo lectura.<br><a href="https://github.com/vxtop/vxtop">Código</a></td>
+<td width="50%" valign="top"><b><a href="https://vxtop.github.io/prisma/">Prisma</a></b><br>Habla y trabaja con Claude en un espacio 3D.<br><a href="https://github.com/vxtop/prisma">Código</a></td>
+</tr></table>
+
+<p align="center"><sub>Apache-2.0 © virtuanista</sub></p>
