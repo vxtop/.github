@@ -1,5 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/vxtop/vxtop.github.io/main/assets/logo.svg" alt="vxtop" width="236"></p>
 
+<p align="center"><b>Español</b> · <a href="https://github.com/vxtop/.github/blob/main/profile/README.en.md">English</a></p>
+
 <p align="center"><b>Un observatorio 3D de tu equipo, de solo lectura.</b><br>
 Carpetas y programas como cubos · actividad de archivos en vivo coloreada según quién la hace · agentes de IA como Claude Code.</p>
 
